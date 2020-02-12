@@ -1,0 +1,30 @@
+{
+  "name": "@dword-design/atomizer-plugin-autoprefixer",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "dword-design/atomizer-plugin-autoprefixer",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "depgraph": "base depgraph",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.4"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^5.3.1",
+    "@dword-design/functions": "^2.7.2",
+    "@dword-design/nuxt-atomizer": "^1.0.0",
+    "axios": "^0.19.2",
+    "fs-extra": "^8.1.0",
+    "nuxt": "^2.11.0",
+    "with-local-tmp-dir": "^2.2.7"
+  }
+}
