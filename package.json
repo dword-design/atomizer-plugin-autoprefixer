@@ -10,11 +10,12 @@
     "dist"
   ],
   "scripts": {
+    "clean": "base clean",
     "commit": "base commit",
-    "depgraph": "base depgraph",
+    "dev": "base dev",
+    "lint": "base lint",
     "prepare": "base prepare",
     "prepublishOnly": "base prepublishOnly",
-    "release": "base release",
     "test": "base test"
   },
   "dependencies": {
@@ -28,5 +29,8 @@
     "fs-extra": "^9.0.0",
     "nuxt": "^2.11.0",
     "with-local-tmp-dir": "^2.2.7"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
