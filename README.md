@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/@dword-design/atomizer-plugin-autoprefixer.svg)](https://npmjs.org/package/@dword-design/atomizer-plugin-autoprefixer)
+[![npm version](https://img.shields.io/npm/v/@dword-design/atomizer-plugin-autoprefixer.svg)](https://npmjs.org/package/@dword-design/atomizer-plugin-autoprefixer)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://github.com/dword-design/atomizer-plugin-autoprefixer/workflows/build/badge.svg)](https://github.com/dword-design/atomizer-plugin-autoprefixer/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/atomizer-plugin-autoprefixer)](https://coveralls.io/github/dword-design/atomizer-plugin-autoprefixer)
@@ -41,7 +41,7 @@
 ## Install
 
 ```bash
-# NPM
+# npm
 $ npm install @dword-design/atomizer-plugin-autoprefixer
 
 # Yarn
