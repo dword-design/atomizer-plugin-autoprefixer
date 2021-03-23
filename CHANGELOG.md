@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.9...v1.0.10) (2021-03-23)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v3 ([#15](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues/15)) ([559d405](https://github.com/dword-design/atomizer-plugin-autoprefixer/commit/559d405a9033224445ec98ec1ef01c241ef5dfb2))
+
 ## [1.0.9](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.8...v1.0.9) (2021-03-22)
 
 
