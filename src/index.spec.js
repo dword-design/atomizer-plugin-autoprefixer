@@ -18,6 +18,7 @@ export default {
       }
     `
       )
+
       const nuxt = new Nuxt({
         atomizer: {
           plugins: [plugin],

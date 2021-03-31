@@ -64,7 +64,7 @@ $ yarn add @dword-design/atomizer-plugin-autoprefixer
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues) or [pull request](https://github.com/dword-design/atomizer-plugin-autoprefixer/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues) or a [pull request](https://github.com/dword-design/atomizer-plugin-autoprefixer/pulls)! ⚙️
 
 ## Support
 
