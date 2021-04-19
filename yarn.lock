@@ -1235,10 +1235,10 @@
     lodash "^4.17.15"
     tinycolor2 "^1.4.1"
 
-"@dword-design/nuxt-atomizer@^1.0.0":
-  version "1.1.12"
-  resolved "https://registry.yarnpkg.com/@dword-design/nuxt-atomizer/-/nuxt-atomizer-1.1.12.tgz#60421d12c99370bbeb7b2d3c29cf38e2c21a6e96"
-  integrity sha512-RKgzpJO8/6kZPxBq7KeGOto5eHIpgv15sEMxgEUyl9ghePdaBBL5M6YMm/2+yoBD7BLX457MQrYgIkvLNtUDXQ==
+"@dword-design/nuxt-atomizer@^1.1.12":
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/@dword-design/nuxt-atomizer/-/nuxt-atomizer-1.1.13.tgz#fadf68865dcddc1b23c084cabf529c5586245679"
+  integrity sha512-YDGKrmdqiIr2grRS6fxRKZPQ5hme89y5KfJKP5JXe7+hqJ5sn2n3t7o53HhTYQA7sTXX4JWgfsqamtliPLUeEQ==
   dependencies:
     "@dword-design/functions" "^3.0.0"
     depcheck-package-name "^1.0.0"
