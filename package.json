@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/atomizer-plugin-autoprefixer",
   "version": "1.0.12",
-  "description": "",
+  "description": null,
   "repository": "dword-design/atomizer-plugin-autoprefixer",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -33,5 +33,7 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
