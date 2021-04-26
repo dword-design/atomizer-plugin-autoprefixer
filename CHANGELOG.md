@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.14...v1.0.15) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v3 ([#24](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues/24)) ([ef72756](https://github.com/dword-design/atomizer-plugin-autoprefixer/commit/ef727561b8ea42cb1b81b91426a0246e52aa79f3))
+
 ## [1.0.14](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.13...v1.0.14) (2021-04-22)
 
 
