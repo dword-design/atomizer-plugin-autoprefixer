@@ -30,6 +30,9 @@
     "nuxt": "^2.11.0",
     "with-local-tmp-dir": "^3.0.0"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "publishConfig": {
     "access": "public"
   }
