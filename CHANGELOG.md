@@ -1,3 +1,12 @@
+## [1.0.18](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.17...v1.0.18) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4 ([#31](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues/31)) ([cac166e](https://github.com/dword-design/atomizer-plugin-autoprefixer/commit/cac166e0ea13ec5ed7016b1200cc0730e932fb4e))
+* update dependency fs-extra to v10 ([#32](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues/32)) ([0943fbd](https://github.com/dword-design/atomizer-plugin-autoprefixer/commit/0943fbd03159ff8f7db3da7e4e31bb2594f9fd7e))
+* update dependency with-local-tmp-dir to v4 ([#33](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues/33)) ([fafa674](https://github.com/dword-design/atomizer-plugin-autoprefixer/commit/fafa6748d5836263fc77a738458a23aa28cea3b5))
+
 ## [1.0.17](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.16...v1.0.17) (2021-05-03)
 
 
