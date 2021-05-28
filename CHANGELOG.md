@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.18...v1.0.19) (2021-05-28)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#35](https://github.com/dword-design/atomizer-plugin-autoprefixer/issues/35)) ([c7349d3](https://github.com/dword-design/atomizer-plugin-autoprefixer/commit/c7349d3a51c6b4cc0bbab895349102f8124a6ca2))
+
 ## [1.0.18](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.17...v1.0.18) (2021-05-04)
 
 
