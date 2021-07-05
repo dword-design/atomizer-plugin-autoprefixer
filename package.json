@@ -2,7 +2,7 @@
   "name": "@dword-design/atomizer-plugin-autoprefixer",
   "version": "1.0.20",
   "repository": "dword-design/atomizer-plugin-autoprefixer",
-  "funding": "https://www.buymeacoffee.com/dword",
+  "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "main": "dist/index.js",
