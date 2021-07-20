@@ -1,3 +1,10 @@
+## [1.0.23](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.22...v1.0.23) (2021-07-20)
+
+
+### Bug Fixes
+
+* replace @dword-design/nuxt-atomizer ([0f3043d](https://github.com/dword-design/atomizer-plugin-autoprefixer/commit/0f3043d9bfb8ab8da67ff7b609894ea377e09bbf))
+
 ## [1.0.22](https://github.com/dword-design/atomizer-plugin-autoprefixer/compare/v1.0.21...v1.0.22) (2021-07-20)
 
 
