@@ -4878,7 +4878,7 @@ depcheck-package-name@^2.0.0:
   dependencies:
     tagged-template-noop "^2.1.1"
 
-depcheck-package-name@^2.0.4:
+depcheck-package-name@^2.0.3:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/depcheck-package-name/-/depcheck-package-name-2.0.4.tgz#75ecbf96381706782527bb5a5b83fb9e239cd4fe"
   integrity sha512-o4ZG44OsdlwXdbG3Kf8836brBy7klVdfk1Qn1tRHllNllxUqWWv6KXz2bgwoN2/Unm/vM+0lA5tr2H+3yb8EBw==
