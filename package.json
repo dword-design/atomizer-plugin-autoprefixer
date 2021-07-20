@@ -24,10 +24,11 @@
   "devDependencies": {
     "@dword-design/base": "^8.0.0",
     "@dword-design/functions": "^4.0.0",
-    "@dword-design/nuxt-atomizer": "^1.0.0",
     "axios": "^0.21.0",
+    "depcheck-package-name": "^2.0.4",
     "fs-extra": "^10.0.0",
     "nuxt": "^2.11.0",
+    "nuxt-atomizer": "^1.1.32",
     "with-local-tmp-dir": "^4.0.0"
   },
   "engines": {

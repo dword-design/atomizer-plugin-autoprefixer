@@ -1168,12 +1168,12 @@
     "@babel/preset-env" "^7.6.3"
     "@babel/preset-typescript" "^7.13.0"
     "@dword-design/functions" "^4.0.0"
-    "@vue/babel-preset-jsx" "github:dword-design/jsx#fork-babel-preset-jsx"
+    "@vue/babel-preset-jsx" dword-design/jsx#fork-babel-preset-jsx
     babel-plugin-add-module-exports "^1.0.2"
     babel-plugin-macros "^3.0.1"
     babel-plugin-module-resolver "^4.0.0"
     babel-plugin-transform-imports "^2.0.0"
-    babel-plugin-wildcard "github:dword-design/babel-plugin-wildcard#fork"
+    babel-plugin-wildcard dword-design/babel-plugin-wildcard#fork
     depcheck-package-name "^2.0.0"
     find-up "^5.0.0"
     param-case "^3.0.3"
@@ -1311,19 +1311,9 @@
   integrity sha512-gplaDX334DV6zuHg+Ne/OgVPO/xrZeV4HK9vErbVs9eDhfuvaDQnc8N0CtDl42aWf10m1kZdV8REgbFm70g9JQ==
   dependencies:
     delay "^5.0.0"
-    endent "github:dword-design/endent#fork"
+    endent dword-design/endent#fork
     lodash "^4.17.15"
     tinycolor2 "^1.4.1"
-
-"@dword-design/nuxt-atomizer@^1.0.0":
-  version "1.1.24"
-  resolved "https://registry.yarnpkg.com/@dword-design/nuxt-atomizer/-/nuxt-atomizer-1.1.24.tgz#3836fc5752bafe4066386a58d0b16ea08f151674"
-  integrity sha512-WyKIuV2NZljX2hFLA9a8QrF/LjywBPvx2U+zRULnHh9VS/vcsc5ZJEHFQLn3vBd5katcqkKb7KfMxRVZ1B7jSQ==
-  dependencies:
-    "@dword-design/functions" "^4.0.0"
-    depcheck-package-name "^2.0.0"
-    serve-static "^1.14.1"
-    webpack-atomizer-loader "github:dword-design/webpack-atomizer-loader#fork"
 
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
@@ -2395,9 +2385,8 @@
     "@vue/babel-sugar-v-model" "^1.2.3"
     "@vue/babel-sugar-v-on" "^1.2.3"
 
-"@vue/babel-preset-jsx@github:dword-design/jsx#fork-babel-preset-jsx":
+"@vue/babel-preset-jsx@dword-design/jsx#fork-babel-preset-jsx":
   version "1.1.2"
-  uid a73cb9961541a60a66b1b99a69a32e00bc66d336
   resolved "https://codeload.github.com/dword-design/jsx/tar.gz/a73cb9961541a60a66b1b99a69a32e00bc66d336"
   dependencies:
     "@vue/babel-helper-vue-jsx-merge-props" "^1.0.0"
@@ -2437,7 +2426,6 @@
 
 "@vue/babel-sugar-inject-h@dword-design/jsx#fork-babel-sugar-inject-h":
   version "1.1.2"
-  uid cc36a2200c059120f37944615fb2ec0e22f8f3cc
   resolved "https://codeload.github.com/dword-design/jsx/tar.gz/cc36a2200c059120f37944615fb2ec0e22f8f3cc"
   dependencies:
     "@babel/plugin-syntax-jsx" "^7.2.0"
@@ -3242,9 +3230,8 @@ babel-plugin-transform-imports@^2.0.0:
     "@babel/types" "^7.4"
     is-valid-path "^0.1.1"
 
-"babel-plugin-wildcard@github:dword-design/babel-plugin-wildcard#fork":
+babel-plugin-wildcard@dword-design/babel-plugin-wildcard#fork:
   version "6.0.0"
-  uid "691d11923ee2dcf63e86f205b0a2c998883e3a3c"
   resolved "https://codeload.github.com/dword-design/babel-plugin-wildcard/tar.gz/691d11923ee2dcf63e86f205b0a2c998883e3a3c"
   dependencies:
     rimraf "^2.6.2"
@@ -4755,7 +4742,6 @@ dedent@0.7.0:
 
 dedent@dword-design/dedent#fork:
   version "0.7.0"
-  uid c8d46e5017d60504657c2d01b59082c0329a12a7
   resolved "https://codeload.github.com/dword-design/dedent/tar.gz/c8d46e5017d60504657c2d01b59082c0329a12a7"
   dependencies:
     babel-plugin-add-module-exports "^1.0.2"
@@ -4889,6 +4875,13 @@ depcheck-package-name@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/depcheck-package-name/-/depcheck-package-name-2.0.3.tgz#d676a0eb0a064a717b70b472c63c406194c4c09c"
   integrity sha512-Fcm89nDUSLslGePOeQRrnZjSSDasLQeuXpFvPta1UBYJgYXUF+4LUNlK9SMuHWln0njEip94QT6zu6fN1tKUUg==
+  dependencies:
+    tagged-template-noop "^2.1.1"
+
+depcheck-package-name@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/depcheck-package-name/-/depcheck-package-name-2.0.4.tgz#75ecbf96381706782527bb5a5b83fb9e239cd4fe"
+  integrity sha512-o4ZG44OsdlwXdbG3Kf8836brBy7klVdfk1Qn1tRHllNllxUqWWv6KXz2bgwoN2/Unm/vM+0lA5tr2H+3yb8EBw==
   dependencies:
     tagged-template-noop "^2.1.1"
 
@@ -5228,9 +5221,8 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-"endent@github:dword-design/endent#fork":
+endent@dword-design/endent#fork:
   version "1.4.0"
-  uid be5433db67eaec07c6c9d00ba3bed2ed946dc664
   resolved "https://codeload.github.com/dword-design/endent/tar.gz/be5433db67eaec07c6c9d00ba3bed2ed946dc664"
   dependencies:
     dedent dword-design/dedent#fork
@@ -9614,6 +9606,16 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
+nuxt-atomizer@^1.1.32:
+  version "1.1.32"
+  resolved "https://registry.yarnpkg.com/nuxt-atomizer/-/nuxt-atomizer-1.1.32.tgz#4b0a05bca3297f7caa82b54cde909d0b03397f2d"
+  integrity sha512-fyGuRijZ9tWWO1SGZzdzne2887zaLnHgXEqFIfyhXzqdX7ZOeT48rc/JNuvQwwfP8gkbKvchMkibwL9qrVQrZg==
+  dependencies:
+    "@dword-design/functions" "^4.0.0"
+    depcheck-package-name "^2.0.0"
+    serve-static "^1.14.1"
+    webpack-atomizer-loader dword-design/webpack-atomizer-loader#fork
+
 nuxt@^2.11.0:
   version "2.15.7"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.15.7.tgz#45332e3b00ba5c1cf04688d42373c8ed7ef4dca7"
@@ -13623,9 +13625,8 @@ wcwidth@^1.0.0:
   dependencies:
     defaults "^1.0.3"
 
-"webpack-atomizer-loader@github:dword-design/webpack-atomizer-loader#fork":
+webpack-atomizer-loader@dword-design/webpack-atomizer-loader#fork:
   version "1.0.2"
-  uid d7953699c4dd6bae1d6d82bab4f0a819ff3608f2
   resolved "https://codeload.github.com/dword-design/webpack-atomizer-loader/tar.gz/d7953699c4dd6bae1d6d82bab4f0a819ff3608f2"
   dependencies:
     atomizer "3.9.1"
